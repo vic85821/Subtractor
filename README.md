@@ -6,7 +6,7 @@ It can be used to calculate **three-digit numbers addition and substraction**.
 `python main.py`
 
 ## Requirements
-`pip -r install requirements.txt`
+`pip install -r requirements.txt`
 * pandas==0.22.0
 * numpy==1.14.0
 * seaborn==0.8.1
